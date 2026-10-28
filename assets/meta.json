@@ -1,0 +1,157 @@
+{
+  "file": "HAd3I2CYWl0dzYKKN5cKiC",
+  "frames": {
+    "card16x9": {
+      "node": "3187:2995",
+      "width": 1920.0,
+      "height": 1080.0,
+      "origin_abs": [
+        -241.0,
+        -65.0
+      ]
+    },
+    "details9x16": {
+      "node": "3187:3529",
+      "width": 1080.0,
+      "height": 1920.0,
+      "origin_abs": [
+        2029.0,
+        -65.0
+      ]
+    }
+  },
+  "pieces": {
+    "card16x9/glow": {
+      "node": "3187:2996",
+      "name": "Ellipse 1",
+      "type": "ELLIPSE",
+      "rel_xywh": [
+        48.0,
+        0.0,
+        1872.0,
+        1080.0
+      ]
+    },
+    "card16x9/character-bust": {
+      "node": "3187:3022",
+      "name": "Agnar King (bust)",
+      "type": "FRAME",
+      "rel_xywh": [
+        960.0,
+        70.0,
+        960.0,
+        1010.0
+      ]
+    },
+    "card16x9/badge": {
+      "node": "3187:2997",
+      "name": "Badge / Major Update",
+      "type": "FRAME",
+      "rel_xywh": [
+        104.0,
+        86.0,
+        272.0,
+        61.0
+      ]
+    },
+    "card16x9/title": {
+      "node": "3187:2999",
+      "name": "AdGuard v5 is here",
+      "type": "TEXT",
+      "rel_xywh": [
+        104.13,
+        222.92,
+        733.374,
+        229.99
+      ]
+    },
+    "card16x9/subtitle": {
+      "node": "3187:3000",
+      "name": "Reimagined. More powerful",
+      "type": "TEXT",
+      "rel_xywh": [
+        107.154,
+        502.462,
+        482.904,
+        37.62
+      ]
+    },
+    "card16x9/features": {
+      "node": "3187:3001",
+      "name": "Features",
+      "type": "FRAME",
+      "rel_xywh": [
+        80.0,
+        612.0,
+        909.0,
+        227.142
+      ]
+    },
+    "details9x16/glow": {
+      "node": "3187:3530",
+      "name": "Ellipse 1",
+      "type": "ELLIPSE",
+      "rel_xywh": [
+        0.0,
+        0.0,
+        1080.0,
+        1920.0
+      ]
+    },
+    "details9x16/character-full": {
+      "node": "3187:3531",
+      "name": "Agnar King (full)",
+      "type": "FRAME",
+      "rel_xywh": [
+        147.0,
+        456.0,
+        933.0,
+        1430.0
+      ]
+    },
+    "details9x16/badge": {
+      "node": "3187:4163",
+      "name": "Badge / Major Update",
+      "type": "FRAME",
+      "rel_xywh": [
+        64.0,
+        70.0,
+        272.0,
+        61.0
+      ]
+    },
+    "details9x16/title": {
+      "node": "3187:4165",
+      "name": "AdGuard v5 is here",
+      "type": "TEXT",
+      "rel_xywh": [
+        64.13,
+        214.92,
+        733.374,
+        229.99
+      ]
+    },
+    "details9x16/subtitle": {
+      "node": "3187:4166",
+      "name": "Reimagined. More powerful",
+      "type": "TEXT",
+      "rel_xywh": [
+        67.154,
+        511.298,
+        255.758,
+        82.998
+      ]
+    },
+    "details9x16/features": {
+      "node": "3187:4167",
+      "name": "Features",
+      "type": "FRAME",
+      "rel_xywh": [
+        49.0,
+        1076.0,
+        370.0,
+        684.529
+      ]
+    }
+  }
+}
